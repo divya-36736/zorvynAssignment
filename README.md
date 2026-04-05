@@ -281,7 +281,7 @@ git init
 git add .
 git commit -m "Initial commit"
 git branch -M main
-git remote add origin https://github.com/your-username/your-repo-name.git
+git remote add origin https://github.com/divya-36736/zorvynAssignment.git
 git push -u origin main
 ```
 
@@ -305,7 +305,7 @@ git push -f origin main
 
 # 💰 Finance Dashboard
 
-🔗 **Live Demo:** https://your-vercel-link.vercel.app
+🔗 **Live Demo:** https://zorvyn-assignment-lac.vercel.app/
 
 ---
 
